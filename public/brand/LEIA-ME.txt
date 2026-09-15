@@ -1,0 +1,1 @@
+﻿Coloque aqui a logo oficial da Nmento Technology com o nome: nmento-logo.png (PNG com fundo transparente, idealmente >= 1200px de largura). Ela e usada no header, footer, smartphone e na textura do cartao 3D.
