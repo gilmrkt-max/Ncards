@@ -3,6 +3,8 @@ import vue from '@vitejs/plugin-vue'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
+  // publicado no GitHub Pages em https://gilmrkt-max.github.io/Ncards/
+  base: '/Ncards/',
   plugins: [vue()],
   resolve: {
     alias: {

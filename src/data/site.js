@@ -7,7 +7,7 @@ export const brand = {
   name: 'Nmento Technology',
   tagline: 'Soluções em Tecnologia',
   // Logo oficial: coloque o arquivo em /public/brand/nmento-logo.png
-  logo: '/brand/nmento-logo.png',
+  logo: import.meta.env.BASE_URL + 'brand/nmento-logo.png',
   // URL codificada no QR Code do cartão 3D
   profileUrl: 'https://nmento.com.br/cartao',
   whatsapp: 'https://wa.me/5500000000000',
